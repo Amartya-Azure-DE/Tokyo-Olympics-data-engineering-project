@@ -7,11 +7,15 @@ The "Tokyo Olympics Data Engineering Project" leverages Microsoft Azure services
 ![Project Architecture](Architecture.png)
 
 ## Technology Used
-1.  Programming Language - Python 
-2.  Scripting Language - SQL
-3.  MS Azure Cloud Services
-  *  Azure Data Factory
-  *  Storage(ADLS Gen2)
-  *  Azure Key Vault
-  *  Azure Databricks 
- 4.  Apache Spark
+1. Programming Language - Python 
+2. Scripting Language - SQL
+3. MS Azure Cloud Services
+  *  **Azure Data Factory**
+  *  **Storage(ADLS Gen2)**
+  *  **Azure Key Vault**
+  *  **Azure Databricks**
+4. Apache Spark
+     
+**Contribute to this Project here-** https://github.com/Amartya-Azure-DE/Tokyo-Olympics-data-engineering-project/
+## Dataset Used
+
